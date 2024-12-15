@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey everyone 👋 It's me Adhyayan!
 
-<!--
-**HappyCodesAK/HappyCodesAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**All in one life personality of student**
 
-Here are some ideas to get you started:
+I am a student and a self-taught coder. I am using Github for my vast knowledge of coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⌀ 📍I live in INDIA.
+⌀ 🧠 Currently I am learning OSINT.
+⌀ 📞 Feel free to message me.
+⌀ 🖌️ My hobbies are drawing, singing and coding!
+
+## Socials
+Discord: akakarmakar1
+Youtube: The Player Man
