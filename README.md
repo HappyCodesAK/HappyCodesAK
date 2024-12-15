@@ -10,5 +10,5 @@ I am a student and a self-taught coder. I am using Github for my vast knowledge 
 ⌀ 🖌️ My hobbies are drawing, singing and coding!
 
 ## Socials
-Discord: akakarmakar1
+Discord: akakarmakar
 Youtube: The Player Man
